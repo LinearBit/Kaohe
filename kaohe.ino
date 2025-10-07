@@ -6,8 +6,8 @@
 
 #define pin 2
 
-const char *ssid = "起名困难灯";
-const char *password = "11451419";
+const char* ssid = "起名困难灯";
+const char* password = "11451419";
 
 int statu;
 uint32_t hz = 5;
