@@ -3,7 +3,7 @@
 ## 功能一二
 
 ![功能一二](https://github.com/LinearBit/Kaohe/blob/main/videos/12.mp4)
-ps:如果演示视频不能可以在videos目录下找
+ps:如果演示视频不能看可以在videos目录下找
 ### 功能一
 - led控制
 ```c++
@@ -184,7 +184,7 @@ ws.onmessage = function(event) {
 ## 功能三
 
 ![功能三](https://github.com/LinearBit/Kaohe/blob/main/videos/3.mp4)
-ps:如果演示视频不能可以在videos目录下找
+ps:如果演示视频不能看可以在videos目录下找
 ```cpp
 case WS_EVT_DISCONNECT:
 	//当断连时
@@ -201,7 +201,7 @@ case WS_EVT_DISCONNECT:
 
 ### 难度ProMax
 ![ProMax](https://github.com/LinearBit/Kaohe/blob/main/videos/pm.mp4)
-ps:如果演示视频不能可以在videos目录下找
+ps:如果演示视频不能看可以在videos目录下找
 
 调用Preferences库储存当前状态为一个键值对
 
