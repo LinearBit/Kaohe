@@ -1,9 +1,9 @@
-# 欢迎使用 MarkdownPro
+# 题目一
 
 ## 功能一二
 
 ![功能一二](https://github.com/LinearBit/Kaohe/blob/main/videos/12.mp4)
-###功能一
+### 功能一
 - led控制
 ```c++
 void ledc() {
@@ -171,7 +171,7 @@ function on() {
 }
 ```
 
-###功能二
+### 功能二
 - 接收状态信息
 ```javascript
 ws.onmessage = function(event) {
